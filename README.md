@@ -17,5 +17,5 @@
 <li>Conversar acima de tudo;​​🗣️​
 <li>Uma boa cultura sempre;​​​📍​
 <li>Um little geek.
-<p><img src=violett.png >
+<p><img src="violett.png" width="150">
 </ul>
